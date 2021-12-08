@@ -50,5 +50,5 @@
 				</div>
 			<?php endif; ?>
 		</header><!-- #masthead -->
-
+<?php echo "echo does not require parentheses."; ?>
 	<div id="content" class="site-content">

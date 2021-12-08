@@ -50,5 +50,6 @@
 				</div>
 			<?php endif; ?>
 		</header><!-- #masthead -->
-<?php echo "echo does not require parentheses."; ?>
+<div id="helloworld" class="helloworld"> 
+<?php echo "hello world"; ?></div>
 	<div id="content" class="site-content">
