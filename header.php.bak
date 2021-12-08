@@ -10,7 +10,6 @@
  * @subpackage Twenty_Nineteen
  * @since Twenty Nineteen 1.0
  */
- echo "echo does not require parentheses.";
 ?><!doctype html>
 <html <?php language_attributes(); ?>>
 <head>
