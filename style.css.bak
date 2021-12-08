@@ -251,7 +251,6 @@ input:lang(azb)[type="submit"], .comment-navigation .nav-previous:lang(azb),
 .entry .entry-content .wp-block-gallery .blocks-gallery-image figcaption:lang(azb),
 .entry .entry-content .wp-block-gallery .blocks-gallery-item figcaption:lang(azb), .entry .entry-content .wp-block-file:lang(azb), .entry .entry-content .wp-block-file .wp-block-file__button:lang(azb), .entry .entry-content .wp-block-latest-comments .wp-block-latest-comments__comment-meta:lang(azb), .wp-caption-text:lang(azb), .gallery-caption:lang(azb) {
   font-family: Tahoma, Arial, sans-serif;
-  color: red;
 }
 
 body:lang(ckb), button:lang(ckb),
